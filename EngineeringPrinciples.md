@@ -16,7 +16,8 @@ beliefs, lax validation, crappy dependencies, unreliable networks,
 scope creep etc... Know them and have a plan to beat them.
 
 1. **Always leave it better than you found it** Fix bad designs, wrong
-decisions, and poor code when you see them.
+decisions, and poor code when you see them. Broken windows lead to more
+broken windows.
 
 1. **Don’t repeat yourself** Every piece of knowledge/process must
 have a single, unambiguous, authoritative representation within a
